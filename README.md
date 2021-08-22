@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi All
 
-<!--
-**SarhadGautam/SarhadGautam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains all the **pet projects** that I have studied/created\
+in the span of 2 years and The whole idea to create this repository is to make it look like my tech resume. \
+I will be adding all my projects learning or practiced in this portfolio and try to keep it up to date.
 
-Here are some ideas to get you started:
+> Learning Projects: 
+>> These projects are just from different courses or open sources projects with possible solutions.\
+>> These projects consists of all kind of baisc ML Techniques i.e. classification, Regression and Clustering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Kaggle Projects:
+>> In this I will be adding all the practice projects from Kaggle to improve my understanding.\
+>> I will put up the description as an when I work in the projects.
+
+> Internship projects: 
+>> This section will include all the online free Internships provided by different companies for our learning.
+>> 
