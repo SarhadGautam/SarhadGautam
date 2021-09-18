@@ -6,12 +6,7 @@ I will be adding all my projects learning or practiced in this portfolio and try
 
 > Learning Projects: 
 >> These projects are just from different courses or open sources projects with possible solutions.\
->> These projects consists of all kind of baisc ML Techniques i.e. classification, Regression and Clustering.
+>> These projects will have all kind of baisc ML Techniques i.e. classification, Regression and Clustering.
+>> I Will be adding projects one by one in order to replenish my learning
 
-> Kaggle Projects:
->> In this I will be adding all the practice projects from Kaggle to improve my understanding.\
->> I will put up the description as an when I work in the projects.
 
-> Internship projects: 
->> This section will include all the online free Internships provided by different companies for our learning.
->> 
